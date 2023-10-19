@@ -53,7 +53,7 @@ class DocumentManager:
         """
         Create or overwrite a document with the given content.
         """
-        doc_type = cls.get_doc_type(file_path)
+        doc_type = get_doc_type(file_path)
         if doc_type == 'txt':
             with open(file_path, 'w', encoding='utf-8') as file:
                 file.write(content)
@@ -65,6 +65,8 @@ class DocumentManager:
             doc.save(file_path)
         else:
             print(f"Cannot create document with extension {doc_type}.")
+        return file_path
+
 
     @classmethod
     def read_document(cls, file_path):

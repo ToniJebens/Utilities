@@ -1,6 +1,5 @@
 from Notion.Class import *
 
-# Ensure you replace 'your_database_id' with an actual database id
 database_id = os.getenv('database_id')
 
 NotionAPI = NotionAPI()
@@ -23,6 +22,8 @@ property_details
 print("\nCreating a new page...")
 new_page_id = NotionAPI.page_create(database_id, page_title="Test Page 1")
 print(f"New Page ID: {new_page_id}")
+
+
 
 ##### 3. Test adding a property to a page
 print("\nAdding a property to the page...")
