@@ -129,4 +129,3 @@ new_content = pd.read_excel("/Users/toni/Desktop/Portfolio/Utilities/Utilities/N
 refreshed_page_id = NotionAPI.page_refresh(database_id, new_page_id_2, "Refreshed Page", new_page_content=new_content, 
 new_page_properties={"name": "value"})
 print(f"Refreshed Page ID: {refreshed_page_id}")
-
