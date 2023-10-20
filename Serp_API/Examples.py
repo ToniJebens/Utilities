@@ -1,4 +1,4 @@
-from Serp.Class import * 
+from Serp_API.Class import * 
 
 # Initialize the class
 my_serp = SERP()

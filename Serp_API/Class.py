@@ -1,4 +1,4 @@
-from Serp.Helpers import *
+from Serp_API.Helpers import *
 
 class SERP:
 
