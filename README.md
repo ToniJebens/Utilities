@@ -8,7 +8,7 @@ This repository is a compilation of utility classes designed to streamline vario
 
 ### In Progress:
 - Webscraping: Tools and utilities for efficient web scraping and data extraction. 
+- Serp API Integration: Classes to simplify interactions with the Serp API.
 
 ### Upcoming Features:
-- Serp API Integration: Classes to simplify interactions with the Serp API.
 - Vector Databases: Including chunking, querying, and other functionalities to interact with vector databases.
