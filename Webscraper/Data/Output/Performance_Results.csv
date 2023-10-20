@@ -1,0 +1,201 @@
+URL,Scraper,Duration,Result
+http://www.cencoex.gob.ve/,Trafilatura,3.01001096,None
+http://esdata.info/,Trafilatura,6.250253201,None
+http://fncancer.org.ve/,Trafilatura,6.210994005,Success
+http://fncancer.org.ve/,Beautiful Soup,5.251744747,Error
+https://vesinfiltro.com/,Beautiful Soup,5.059265852,Error
+http://www.cencoex.gob.ve/,Beautiful Soup,5.017541885,Error
+http://esdata.info/,Beautiful Soup,5.016711235,Error
+https://informe21.com/,Beautiful Soup,4.892364979,Success
+http://nmidigital.com/,Trafilatura,4.290062904,Success
+http://www.observatoriodeconflictos.org.ve/,Trafilatura,3.918808222,Success
+https://informe21.com/,Trafilatura,3.789753914,Success
+https://vesinfiltro.com/,Trafilatura,3.015604973,None
+http://www.asambleanacional.gob.ve/,Trafilatura,2.889327049,Success
+http://www.orinoco.org/,Trafilatura,2.843040943,Success
+https://www.mercado.com.ve/,Trafilatura,2.764585972,Success
+http://www.correodelorinoco.gob.ve/,Trafilatura,2.741709709,Success
+https://www.panfletonegro.com/,Beautiful Soup,2.714114666,Success
+https://prensapcv.wordpress.com/,Trafilatura,2.68641305,Success
+https://www.fedecamaras.org.ve/,Trafilatura,2.673964977,Success
+https://caiv.org/,Trafilatura,2.64597702,Success
+http://opinionynoticias.com/,Trafilatura,2.645864964,Success
+http://complotmagazine.com/,Trafilatura,2.62729907,Success
+https://www.fedecamaras.org.ve/,Beautiful Soup,2.530993223,Success
+http://orvex.org/,Beautiful Soup,2.417303085,Error
+http://www.ultimasnoticias.com.ve/,Trafilatura,2.358131886,Success
+http://oveprisiones.org/,Trafilatura,2.314730883,Success
+http://correodelcaroni.com/,Trafilatura,2.202031851,Success
+https://foropenal.com/,Trafilatura,2.174037933,Success
+http://www.orinoco.org/,Beautiful Soup,2.154212952,Success
+https://www.telemundo.com/,Trafilatura,1.98562789,Success
+https://caiv.org/,Beautiful Soup,1.957246065,Success
+https://foropenal.com/,Beautiful Soup,1.942091942,Success
+http://correodelcaroni.com/,Beautiful Soup,1.936042786,Success
+http://www.pdv.com/,Trafilatura,1.91933322,Success
+http://luchadeclases.org.ve/,Trafilatura,1.865538836,Success
+http://www.venezuelaawareness.com/,Trafilatura,1.829195023,Success
+https://sinmordaza.org/,Trafilatura,1.788715839,Success
+https://elperiodicovenezolano.com/,Trafilatura,1.761439085,Success
+http://www.observatoriodeconflictos.org.ve/,Beautiful Soup,1.700251341,Success
+http://opinionynoticias.com/,Beautiful Soup,1.67217803,Success
+http://www.ultimasnoticias.com.ve/,Beautiful Soup,1.646045923,Success
+http://orvex.org/,Trafilatura,1.634778261,None
+http://www.pdv.com/,Beautiful Soup,1.610301018,Success
+https://www.fundacionreflejosdevenezuela.com/,Trafilatura,1.59236908,Success
+https://elperiodicovenezolano.com/,Beautiful Soup,1.575679064,Success
+https://plafam.org.ve/,Trafilatura,1.568971872,Success
+http://confirmado.com.ve/,Trafilatura,1.510910034,Success
+http://www.controlciudadano.org/,Trafilatura,1.490591049,Success
+https://prensapcv.wordpress.com/,Beautiful Soup,1.483786106,Success
+http://vcrisis.com/,Trafilatura,1.439766169,Success
+https://sinmordaza.org/,Beautiful Soup,1.390369177,Success
+http://urru.org/,Trafilatura,1.369168758,Success
+https://globovision.com/,Trafilatura,1.338906765,Success
+https://www.fundacionreflejosdevenezuela.com/,Beautiful Soup,1.321221113,Success
+http://www.correodelorinoco.gob.ve/,Beautiful Soup,1.318598032,Success
+http://analisis24.com/,Trafilatura,1.28982091,Success
+http://11abril.com/,Trafilatura,1.25156498,Success
+https://caracasgringo.wordpress.com/,Trafilatura,1.233344078,Success
+http://6topoder.com/,Trafilatura,1.232637167,Success
+https://ciudadaniaactiva.org/,Trafilatura,1.227003098,None
+http://unidadvenezuela.org/,Trafilatura,1.226336956,Success
+https://www.panfletonegro.com/,Trafilatura,1.22349906,Success
+http://www.venezuelaawareness.com/,Beautiful Soup,1.202685833,Success
+http://confirmado.com.ve/,Beautiful Soup,1.18452692,Success
+http://gumilla.org/,Trafilatura,1.182813883,Success
+http://www.infobae.media/,Trafilatura,1.168313026,Success
+https://albaciudad.org/,Trafilatura,1.138344049,Success
+http://cedema.org/,Trafilatura,1.100833893,Success
+http://www.asambleanacional.gob.ve/,Beautiful Soup,1.087482691,Success
+https://vivoplay.net/,Trafilatura,1.065141201,Success
+https://www.telemundo.com/,Beautiful Soup,1.046104908,Success
+https://dollar.nu/,Trafilatura,1.035372972,Success
+https://vivoplay.net/,Beautiful Soup,1.018416166,Success
+https://daniel-venezuela.blogspot.com/,Trafilatura,1.018209696,Success
+https://cronica.uno/,Trafilatura,0.989712,Success
+https://www.mercado.com.ve/,Beautiful Soup,0.989682198,Error
+http://unidadvenezuela.org/,Beautiful Soup,0.958548784,Success
+https://bandera-roja.blogspot.com/,Trafilatura,0.935324907,Success
+https://futuropresente.com.ve/,Trafilatura,0.919796944,Success
+http://sunoticiero.com/,Trafilatura,0.915473938,Success
+http://vcrisis.com/,Beautiful Soup,0.905246258,Success
+https://dolartoday.com/,Trafilatura,0.904225111,Success
+http://www.laverdad.com/,Trafilatura,0.895549059,Success
+https://albaciudad.org/,Beautiful Soup,0.886850119,Success
+http://dollarparalelovenezuela.com/,Trafilatura,0.883286953,None
+http://es.catholic.net/,Trafilatura,0.869247198,Success
+https://cronica.uno/,Beautiful Soup,0.855534077,Success
+http://www4.cne.gob.ve/,Trafilatura,0.848396063,Success
+https://lasarmasdecoronel.blogspot.com/,Trafilatura,0.84623313,Success
+https://dollar.nu/,Beautiful Soup,0.841889143,Success
+https://www.venelogia.com/,Trafilatura,0.830161333,Success
+http://cedema.org/,Beautiful Soup,0.824261904,Success
+https://globovision.com/,Beautiful Soup,0.820873022,Success
+http://sumate.org/,Trafilatura,0.818627119,Success
+http://complotmagazine.com/,Beautiful Soup,0.811886072,Success
+https://www.elimpulso.com/,Trafilatura,0.797470093,Success
+https://caracasgringo.wordpress.com/,Beautiful Soup,0.796361923,Success
+https://www.analitica.com/,Trafilatura,0.790508986,Success
+https://devilsexcrement.com/,Trafilatura,0.77894783,Success
+http://www.infobae.media/,Beautiful Soup,0.772927999,Success
+http://dialogo-americas.com/,Trafilatura,0.764776945,Success
+https://socialdemencia.blogspot.com/,Trafilatura,0.738170862,Success
+http://manosfueradevenezuela.org/,Trafilatura,0.725620985,Success
+https://cuentosintrascendentes.blogspot.com/,Trafilatura,0.706509113,Success
+http://es.catholic.net/,Beautiful Soup,0.704277992,Success
+https://www.elespectador.com/,Trafilatura,0.677733898,Success
+https://devilsexcrement.com/,Beautiful Soup,0.67651701,Success
+https://www.cecodap.org.ve/,Trafilatura,0.665944815,Success
+https://www.analitica.com/,Beautiful Soup,0.661064148,Success
+https://ciudadaniaactiva.org/,Beautiful Soup,0.659342051,Other
+http://prosalud.org.ve/,Beautiful Soup,0.653505087,Success
+http://www.descifrado.com/,Trafilatura,0.644518852,Success
+http://dialogo-americas.com/,Beautiful Soup,0.61891675,Success
+https://www.venelogia.com/,Beautiful Soup,0.607679844,Success
+http://prosalud.org.ve/,Trafilatura,0.604835749,Success
+https://www.iglesia.net/,Trafilatura,0.593766928,Success
+http://www4.cne.gob.ve/,Beautiful Soup,0.573949814,Success
+https://lasarmasdecoronel.blogspot.com/,Beautiful Soup,0.563376188,Success
+http://6topoder.com/,Beautiful Soup,0.553796053,Other
+https://alekboyd.blogspot.com/,Trafilatura,0.552495003,Success
+http://dollarparalelovenezuela.com/,Beautiful Soup,0.548639059,Other
+https://rebelion.org/,Trafilatura,0.540385008,Success
+http://www.laverdad.com/,Beautiful Soup,0.537140846,Success
+https://www.cecodap.org.ve/,Beautiful Soup,0.515470028,Success
+http://www.descifrado.com/,Beautiful Soup,0.502790928,Success
+https://cuentosintrascendentes.blogspot.com/,Beautiful Soup,0.500946045,Success
+https://dolartoday.com/,Beautiful Soup,0.492521048,Success
+https://daniel-venezuela.blogspot.com/,Beautiful Soup,0.4915452,Success
+https://socialdemencia.blogspot.com/,Beautiful Soup,0.491142988,Success
+http://veinteligente.org/,Trafilatura,0.485630989,Success
+https://plafam.org.ve/,Beautiful Soup,0.480364084,Success
+https://efectococuyo.com/,Trafilatura,0.474056959,Success
+http://www.votojoven.com/,Trafilatura,0.471804142,Success
+https://bandera-roja.blogspot.com/,Beautiful Soup,0.468544722,Success
+https://www.iglesia.net/,Beautiful Soup,0.460916042,Success
+https://cedice.org.ve/,Trafilatura,0.449198008,Success
+http://caracasktc.org/,Trafilatura,0.429737091,Success
+https://rebelion.org/,Beautiful Soup,0.417452097,Success
+https://diegoarria.com/,Trafilatura,0.413767099,Success
+http://www.votojoven.com/,Beautiful Soup,0.412421942,Success
+https://runrun.es/,Trafilatura,0.401264191,Success
+https://futuropresente.com.ve/,Beautiful Soup,0.386114836,Success
+https://alekboyd.blogspot.com/,Beautiful Soup,0.381742001,Success
+http://avn.info.ve/,Trafilatura,0.379508257,Success
+https://ipysvenezuela.org/,Trafilatura,0.367679834,Success
+https://movimientoecologicodevenezuela.blogspot.com/,Trafilatura,0.360872269,Success
+http://oveprisiones.org/,Beautiful Soup,0.342475891,Error
+http://www.tuneloso.com/,Trafilatura,0.340217829,Success
+http://dolarparalelo.biz/,Trafilatura,0.334792852,None
+http://avn.info.ve/,Beautiful Soup,0.320930719,Other
+http://www.controlciudadano.org/,Beautiful Soup,0.318759918,Error
+http://analisis24.com/,Beautiful Soup,0.317260981,Other
+https://dolartoday.org/,Trafilatura,0.316977739,Success
+http://gumilla.org/,Beautiful Soup,0.316861153,Error
+http://11abril.com/,Beautiful Soup,0.315320015,Success
+http://sumate.org/,Beautiful Soup,0.313497305,Error
+http://www.acsol.org/,Trafilatura,0.310815096,None
+https://efectococuyo.com/,Beautiful Soup,0.301981926,Success
+https://www.elespectador.com/,Beautiful Soup,0.299252987,Success
+https://caracasqueer.blogspot.com/,Trafilatura,0.286235809,Success
+http://www.televen.com/,Trafilatura,0.281648874,Success
+https://dolartoday.org/,Beautiful Soup,0.281131983,Other
+http://sunoticiero.com/,Beautiful Soup,0.277577877,Error
+https://movimientoecologicodevenezuela.blogspot.com/,Beautiful Soup,0.272678137,Success
+https://www.elimpulso.com/,Beautiful Soup,0.269772053,Success
+https://www.elchiguirebipolar.com/,Trafilatura,0.257339001,None
+http://www.sgiv.org/,Trafilatura,0.240212917,Success
+https://caracasqueer.blogspot.com/,Beautiful Soup,0.236885786,Success
+http://veinteligente.org/,Beautiful Soup,0.230664015,Success
+http://luchadeclases.org.ve/,Beautiful Soup,0.225266933,Error
+http://nmidigital.com/,Beautiful Soup,0.22416091,Error
+https://diegoarria.com/,Beautiful Soup,0.207919121,Success
+https://runrun.es/,Beautiful Soup,0.201606274,Success
+http://www.sgiv.org/,Beautiful Soup,0.197943211,Other
+http://www.acsol.org/,Beautiful Soup,0.189929008,Other
+http://manosfueradevenezuela.org/,Beautiful Soup,0.186788797,Success
+http://periodismodepaz.org/,Trafilatura,0.184611082,Success
+http://eldolarparalelo.info/,Trafilatura,0.183686256,Success
+https://cedice.org.ve/,Beautiful Soup,0.177713871,Success
+http://www.2001.com.ve/,Trafilatura,0.171249151,None
+https://www.elchiguirebipolar.com/,Beautiful Soup,0.151986122,Error
+https://ipysvenezuela.org/,Beautiful Soup,0.151212931,Error
+https://dolartoday.info/,Trafilatura,0.141759157,None
+http://www.webntn24.us/,Trafilatura,0.137624025,None
+https://contrapunto.com/,Trafilatura,0.137588024,None
+http://caracasktc.org/,Beautiful Soup,0.125193834,Success
+http://www.tuneloso.com/,Beautiful Soup,0.123333931,Success
+http://eldolarparalelo.info/,Beautiful Soup,0.120842934,Success
+http://www.webntn24.us/,Beautiful Soup,0.107293129,Other
+http://www.2001.com.ve/,Beautiful Soup,0.101408958,Error
+http://periodismodepaz.org/,Beautiful Soup,0.095032692,Other
+https://contrapunto.com/,Beautiful Soup,0.094493151,Error
+http://www.televen.com/,Beautiful Soup,0.090261936,Success
+http://urru.org/,Beautiful Soup,0.079946995,Success
+https://dolartoday.info/,Beautiful Soup,0.04762578,Error
+http://6topoderweb.com/,Trafilatura,0.037990332,None
+http://dolarparalelovenezuela.com/,Trafilatura,0.034001827,None
+http://dolarparalelo.biz/,Beautiful Soup,0.010177612,Error
+http://dolarparalelovenezuela.com/,Beautiful Soup,0.008694172,Error
+http://6topoderweb.com/,Beautiful Soup,0.005679131,Error

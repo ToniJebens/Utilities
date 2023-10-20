@@ -164,3 +164,5 @@ Serp/Class.py
 Webscraper/Helpers.py
 Webscraper/Class.py
 .env
+Webscraper/.DS_Store
+Webscraper/Data/.DS_Store
