@@ -70,26 +70,22 @@ class DocumentManager:
 
     @classmethod
     def read_document(cls, file_path):
-        doc_type = get_doc_type(file_path)
-        if doc_type == 'txt':
-            with open(file_path, 'r', encoding='utf-8') as file:
-                return file.read()
-        elif doc_type == 'pdf':
-            with open(file_path, 'rb') as file:
-                pdf_reader = PdfFileReader(file)
-                text = ''
-                for page_num in range(pdf_reader.numPages):
-                    page = pdf_reader.getPage(page_num)
-                    text += page.extractText()
-                return text
-        elif doc_type == 'docx':
-            doc = docx.Document(file_path)
-            text = ''
-            for paragraph in doc.paragraphs:
-                text += paragraph.text + '\n'
-            return text
+        """
+        Load content from a file based on its extension.
+        Currently supports: .pdf, .txt, .doc, and .docx files.
+        """
+        doc = ""
+        fileExtension = get_doc_type(file_path)
+        if fileExtension == "pdf":
+            doc = load_pdf(file_path)
+        elif fileExtension == "txt":
+            doc = load_txt(file_path)
+        elif fileExtension in ["doc", "docx"]:
+            doc = load_docx(file_path)
         else:
-            return None
+            print(f"Cannot read document with extension {fileExtension}.")
+        return doc
+
         
     @classmethod
     def update_document(cls, file_path, new_content):
