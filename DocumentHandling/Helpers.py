@@ -44,6 +44,22 @@ def get_file_creation_time(file_path: str) -> str:
 
 
 
+def create_doc(doc_type, file_path, content):
+    if doc_type == 'txt':
+        with open(file_path, 'w', encoding='utf-8') as file:
+            file.write(content)
+    elif doc_type == 'pdf':
+        print("Writing PDF files is not implemented.")
+    elif doc_type == 'docx':
+        doc = docx.Document()
+        doc.add_paragraph(content)
+        doc.save(file_path)
+    else:
+        print(f"Cannot create document with extension {doc_type}.")
+    return file_path
+
+
+
 def load_pdf(file_path: str) -> str:
     if not os.path.isfile(file_path):
         raise ValueError(f'File not found: {file_path}')
@@ -67,3 +83,12 @@ def load_docx(file_path: str) -> str:
     return ' '.join([paragraph.text for paragraph in doc.paragraphs])
 
 
+def load_document(fileExtension, file_path):
+    if fileExtension == "pdf":
+        doc = load_pdf(file_path)
+    elif fileExtension == "txt":
+        doc = load_txt(file_path)
+    elif fileExtension in ["doc", "docx"]:
+        doc = load_docx(file_path)
+    else:
+        print(f"Cannot read document with extension {fileExtension}.")
