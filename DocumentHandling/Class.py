@@ -54,17 +54,7 @@ class DocumentManager:
         Create or overwrite a document with the given content.
         """
         doc_type = get_doc_type(file_path)
-        if doc_type == 'txt':
-            with open(file_path, 'w', encoding='utf-8') as file:
-                file.write(content)
-        elif doc_type == 'pdf':
-            print("Writing PDF files is not implemented.")
-        elif doc_type == 'docx':
-            doc = docx.Document()
-            doc.add_paragraph(content)
-            doc.save(file_path)
-        else:
-            print(f"Cannot create document with extension {doc_type}.")
+        file_path = create_doc(doc_type, file_path, content)
         return file_path
 
 
@@ -76,14 +66,7 @@ class DocumentManager:
         """
         doc = ""
         fileExtension = get_doc_type(file_path)
-        if fileExtension == "pdf":
-            doc = load_pdf(file_path)
-        elif fileExtension == "txt":
-            doc = load_txt(file_path)
-        elif fileExtension in ["doc", "docx"]:
-            doc = load_docx(file_path)
-        else:
-            print(f"Cannot read document with extension {fileExtension}.")
+        doc = load_document(fileExtension, file_path)
         return doc
 
         
