@@ -33,7 +33,7 @@ Code tested for Python version 3.10
 
 ### 📌 Current
 - **Document Handling**: Functionalities to handle, manipulate, and store documents in various formats.
-- **Notion Handling**: Tools for seamless interactions with Notion's API and content management.
+- **Notion Handling**: Tools for seamless interactions with Notion's API and content management. Currently hidden for proprietary reasons.
 
 ### 👷🏼‍♀️ In Progress
 - **Webscraping**: Utilities for efficient web scraping and data extraction.
