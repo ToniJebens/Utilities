@@ -44,3 +44,13 @@ Code tested for Python version 3.10
 ### 🔮 Upcoming
 - **Vector Database Tools**: Planned utilities for chunking, storing, and querying documents via FAISS or other vector DBs.
 
+---
+## 🚀 Example Usage
+
+```python
+from Notion.Class import NotionClient
+
+notion = NotionClient(api_key="your-key")
+notion.update_page(page_id="abc123", content="This is updated page content")
+```
+📁 More examples can be found in /Notion/Example.py
