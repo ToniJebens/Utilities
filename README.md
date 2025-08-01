@@ -1,5 +1,6 @@
 ## Utility Classes
-A modular set of Python utility classes for automating common workflows across data science, web scraping, and API integration projects.  
+A modular set of Python utility classes for automating common workflows across data science, web scraping, and API integration projects.
+
 Includes reusable components for Notion API, Serp API, web scraping, and document handling, with clean examples and helper functions.
 
 ---
