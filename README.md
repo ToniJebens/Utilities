@@ -1,5 +1,6 @@
 ## Utility Classes
-A collection of utility classes aimed at simplifying various tasks across projects.
+A modular set of Python utility classes for automating common workflows across data science, web scraping, and API integration projects.  
+Includes reusable components for Notion API, Serp API, web scraping, and document handling, with clean examples and helper functions.
 
 ---
 
@@ -29,16 +30,16 @@ Code tested for Python version 3.10
 
 ---
 
-## Features
+## 📌 Features
 
-### 📌 Current
-- **Document Handling**: Functionalities to handle, manipulate, and store documents in various formats.
-- **Notion Handling**: Tools for seamless interactions with Notion's API and content management. Currently hidden for proprietary reasons.
+### ✅ Implemented
+- **Document Handling**: Functions for reading/writing `.csv`, `.xls`, `.json`, and `.npy`; lightweight metadata operations.
+- **Notion API Integration** *(partially redacted)*: Authenticate, retrieve, and populate content in Notion databases via structured page templates.
 
-### 👷🏼‍♀️ In Progress
-- **Webscraping**: Utilities for efficient web scraping and data extraction.
-- **Serp API Integration**: Classes designed for easy interactions with the Serp API.
+### 🚧 In Progress
+- **Web Scraping Utilities**: Automated scraping with user-agent rotation, page load checks, and error logging.
+- **Serp API Tools**: Wrapper classes for programmatic search queries and structured result parsing.
 
 ### 🔮 Upcoming
-- **Vector Databases**: Features including chunking, querying, and other interactions with vector databases.
+- **Vector Database Tools**: Planned utilities for chunking, storing, and querying documents via FAISS or other vector DBs.
 
